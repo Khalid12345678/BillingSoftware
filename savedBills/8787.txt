@@ -1,0 +1,19 @@
+	Welcome Khalid Retail
+
+Bill Number : 8787
+Customer Name : ddd
+Phone Number : 9989
+=======================================
+Products		Qty		Price
+=======================================
+ Soap		 2		 80
+ Gel		 1		 80
+ Rice		 3		 120
+ Wheat		 3		 90
+ Thumbsup		 1		 30
+---------------------------------------
+Cosmetics Tax		Rs 16.0
+Grocery Tax		Rs 4.2
+Drinks Tax		Rs 6.0
+Totals		Rs 426.2
+---------------------------------------

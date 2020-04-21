@@ -1,0 +1,23 @@
+	Welcome Khalid Retail
+
+Bill Number : 9191
+Customer Name : Khalid
+Phone Number : 8700414501
+=======================================
+Products		Qty		Price
+=======================================
+ Soap		 1		 40
+ Shampoo		 3		 150
+ Wash		 2		 60
+ Rice		 1		 40
+ Daal		 2		 160
+ Wheat		 1		 30
+ Maza		 1		 45
+ Thumbsup		 4		 120
+ Sprite		 2		 90
+---------------------------------------
+Cosmetics Tax		Rs 25.0
+Grocery Tax		Rs 4.6
+Drinks Tax		Rs 51.0
+Totals		Rs 815.6
+---------------------------------------

@@ -1,0 +1,21 @@
+	Welcome Khalid Retail
+
+Bill Number : 5139
+Customer Name : Khalid
+Phone Number : 98998
+=======================================
+Products		Qty		Price
+=======================================
+ Soap		 1		 40
+ Shampoo		 2		 100
+ Gel		 1		 80
+ Food Oil		 2		 250
+ Sugar		 2		 60
+ Frooti		 3		 30
+ Limca		 4		 180
+---------------------------------------
+Cosmetics Tax		Rs 22.0
+Grocery Tax		Rs 6.2
+Drinks Tax		Rs 42.0
+Totals		Rs 810.2
+---------------------------------------

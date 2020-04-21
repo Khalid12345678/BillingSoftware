@@ -1,0 +1,24 @@
+	Welcome Khalid Retail
+
+Bill Number : 7749
+Customer Name : Akram
+Phone Number : 8700414501
+=======================================
+Products		Qty		Price
+=======================================
+ Soap		 1		 40
+ Shampoo		 4		 200
+ Cream		 1		 100
+ Wash		 1		 30
+ Food Oil		 2		 250
+ Sugar		 2		 60
+ Frooti		 1		 10
+ Thumbsup		 3		 90
+ Sprite		 2		 90
+ Cock		 3		 150
+---------------------------------------
+Cosmetics Tax		Rs 37.0
+Grocery Tax		Rs 6.2
+Drinks Tax		Rs 68.0
+Totals		Rs 1131.2
+---------------------------------------

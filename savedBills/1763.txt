@@ -1,0 +1,22 @@
+	Welcome Khalid Retail
+
+Bill Number : 1763
+Customer Name : Gufran
+Phone Number : 8700414501
+=======================================
+Products		Qty		Price
+=======================================
+ Soap		 3		 120
+ Cream		 2		 200
+ Wash		 2		 60
+ Daal		 7		 560
+ Sugar		 1		 30
+ Thumbsup		 2		 60
+ Sprite		 2		 90
+ Cock		 2		 100
+---------------------------------------
+Cosmetics Tax		Rs 38.0
+Grocery Tax		Rs 11.8
+Drinks Tax		Rs 50.0
+Totals		Rs 1319.8
+---------------------------------------
